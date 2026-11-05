@@ -1,0 +1,15 @@
+{
+"name": "Money · Personal Finance Dashboard",
+"short_name": "FinanceApp",
+"start_url": "./",
+"display": "standalone",
+"background_color": "#070b14",
+"theme_color": "#070b14",
+"icons": [
+{
+"src": "https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/currency-rupee.svg",
+"sizes": "192x192 512x512",
+"type": "image/svg+xml"
+}
+]
+}
